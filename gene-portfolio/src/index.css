@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font for Signika  */
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300;400&display=swap');
+
+@layer base {
+    body{
+        @apply font-[Signika];
+    }
+    li{
+        @apply px-4;
+        @apply cursor-pointer
+    }
+    
+}
