@@ -1,10 +1,11 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 const Contact = () => {
+  console.log(process.env.REACT_APP_GETFORM)
 
   return (
     <div name='contact' className='w-full h-screen bg-[#4FB7FF] text-white flex justify-center items-center p-4'>
-        <form  className='flex flex-col max-w-[600px] w-full'>
+        <form method="POST" action={process.env.REACT_APP_GETFORM} className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-[#00000050]'>Contact</p>
                 <p className='text-white py-4'>Feel free to reach out to me via email here!</p>
