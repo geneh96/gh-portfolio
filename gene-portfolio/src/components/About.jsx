@@ -16,7 +16,7 @@ const About = () => {
                     <p>Hi! My name is Gene, thanks for checking out my page. Feel free to look around!</p>
                 </div>
                 <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>I had graduated from Montclair State University in the spring of 2018. I've worked on many different projects throughout my years as a software developer. I have experience in Web Development, Windows Applications (such as Winforms and WPF), as well as Windows Services. I am always interested in learning new tech to further sharpen my toolset as a developer!</p>
                 </div>
             </div>             
         </div>
