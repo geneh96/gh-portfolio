@@ -19,7 +19,7 @@ const Home = () => {
                 I love learning and collaborating with others!</p>
               </div>  
               <div className='py-12 px-14'>
-                <img className='hidden md:flex' src={ProPic}/>
+                <img className='hidden md:flex' alt="Profile Pic" src={ProPic}/>
               </div>
             </div>
             <div>
