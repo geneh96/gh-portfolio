@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/d569f629-cf7f-4c82-8102-a32562778c45/resourceGroups/gene-portfolio_group/providers/Microsoft.Web/sites/gene-hernandez",
+    "appService.deploySubpath": "."
 }
